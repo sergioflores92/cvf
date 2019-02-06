@@ -158,7 +158,14 @@ ul{
   padding-bottom: 5%;
   list-style-type: none;
 }
+#nav-hotfix{
+  padding: auto;
+  margin: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
 .parametros{
   padding-left: 5%;
   padding-right:5%;
+
 }
